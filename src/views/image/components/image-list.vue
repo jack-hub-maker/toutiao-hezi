@@ -110,7 +110,7 @@
       <el-upload
         class="upload-demo"
         drag
-        action="http://ttapi.research.itcast.cn/mp/v1_0/user/images"
+        action="//ttapi.research.itcast.cn/mp/v1_0/user/images"
         :headers="uploadHeaders"
         name="image"
         multiple
